@@ -1,0 +1,45 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 559px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 472px;
+  min-height: 222px;
+  background-image: url("images/bg21.png");
+  background-position: 50% 50%;
+  margin: 125px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-2 {
+  width: 291px;
+  height: 217px;
+  animation-duration: 1000ms;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: none;
+  animation-duration: 1000ms;
+  margin: 67px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    background-position: 0% 0%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+  }
+}
